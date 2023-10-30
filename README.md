@@ -52,5 +52,5 @@
 </div>
 
 <h3>Link do vídeo no youtube da explicação geral do funcionamento do circuito </h3>
-<a href="https://youtu.be/TNQfqfA3gJw" target=_blank>clique aqui!</a>
+<a href="https://youtu.be/TNQfqfA3gJw" target="_blank">clique aqui!</a>
 
