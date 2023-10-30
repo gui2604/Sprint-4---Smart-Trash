@@ -5,5 +5,40 @@
 
 <h3>Arquitetura do Projeto</h3>
 <div>
-  <img>
+  <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/issues/1#issue-1968917549" width="300px">
+  <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/issues/1#issuecomment-1785755950" width="300px">
 </div>
+
+<h3>Hardware</h3>
+<ul><p>O hardware necessário para a construção e funcionamento da Smart Trash são:</p>
+  <li>1x ESP32</li>
+  <li>1x Protoboard 830 pontos</li>
+  <li>5x LED's(verde, amarelo e vermelho)</li>
+  <li>5x Resistores 220V</li>
+  <li>1x Sensor ultrassônico - HC-SR04</li>
+  <li>1x Sensor de Peso - Célula de carga (simulado pelo potenciômetro)</li>
+  <li>1x Cabo microUSB para 3,3V</li>
+  <li>6x cabos tipo macho-macho</li>
+  <li>12x cabos tipo macho-fêmea</li>
+</ul>
+
+<h3>Instruções, dependências e requisitos</h3>
+<ul><h4>Requisitos Funcionais</h4>
+  <li>A lixeira deverá ser capaz de obter e medir o peso do lixo depositado em seu interior.</li>
+  <li>A lixeira deverá ser capaz de traduzir o peso medido para visualização em LED’s (verde, amarelo e vermelho).</li>
+  <li>A lixeira deverá ser capaz de detectar o nível, ou seja, a altura do lixo atingido.</li>
+  <li>A lixeira deverá ser capaz de detectar em quais locais da borda da lixeira o lixo atingiu sua altura máxima.</li>
+  <li>A lixeira devera ter resistencia contra a oxidação e à choques mecânicos.</li>
+</ul>
+<ul><h4>Requisitos Não-Funcionais</h4>
+  <li>A lixeira deverá ser vazada para que não ocorra o acúmulo de líquidos interferindo significativamente na medição do peso do lixo depositado.</li>
+  <li>A lixeira deverá possuir uma comunicação eficiente, transmitindo informações para a central em tempo real.</li>
+  <li>A lixeira deverá ser capaz de intergir presencialmente com usuários, transmitindo-lhes informações visuais sobre os dados coletados do lixo.</li>
+  <li>A lixeira devera ser resistente mecanicamente e quimicamente aos efeitos naturais.</li>
+</ul>
+<ul><h4>Regras de Negócio</h4>
+  <li>A lixeira não poderá ultrapassar 500kg de capacidade de peso, tendo em vista a restrição de acúmulo de lixo depositado, e o comprometimento da estrutura de sustentação da lixeira.</li>
+  <li>A lixo depositado não podera ultrapassar 70% do preenchimento de saturação da borda da lixeira, visto o risco de transposição da borda devido à lotação.</li>
+</ul>
+
+
