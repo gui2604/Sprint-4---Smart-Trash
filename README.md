@@ -45,4 +45,10 @@
   <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/assets/128194162/c7887c65-e7a5-42c3-9a42-e88460ab2cb3" width="300px">
 </div>
 
+<h3>Dashboard de Health Check</h3>
+<p>O dashboard a seguir é atualizado em tempo real, sendo a medida em volume representava em centímetros e a medida de peso representada em kg.</p>
+<div>
+  <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/assets/128194162/02c8c743-e197-451c-9af8-706b10cbb217" width="300px"> 
+</div>
+
 
