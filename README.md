@@ -51,4 +51,6 @@
   <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/assets/128194162/02c8c743-e197-451c-9af8-706b10cbb217" width="300px"> 
 </div>
 
+<h3>Link do vídeo no youtube da explicação geral do funcionamento do circuito </h3>
+<a href="https://youtu.be/TNQfqfA3gJw">clique aqui!</a>
 
