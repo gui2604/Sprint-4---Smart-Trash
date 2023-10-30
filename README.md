@@ -41,4 +41,9 @@
   <li>A lixo depositado não podera ultrapassar 70% do preenchimento de saturação da borda da lixeira, visto o risco de transposição da borda devido à lotação.</li>
 </ul>
 
+<h3>Diagrama de Caso de Uso</h3>
+<div>
+  <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/issues/3#issue-1968933287" width="300px">
+</div>
+
 
