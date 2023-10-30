@@ -5,7 +5,7 @@
 
 <h3>Arquitetura do Projeto</h3>
 <div>
-  <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/issues/1#issue-1968917549" width="300px">
+  <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/assets/128194162/7b8cf50e-d51d-4f3e-aff9-beb30fdd7e30" width="300px">
   <img src="https://github.com/gui2604/Sprint-4---Smart-Trash/issues/1#issuecomment-1785755950" width="300px">
 </div>
 
